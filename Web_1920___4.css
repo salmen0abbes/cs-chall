@@ -1,0 +1,745 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 4;
+	--web-view-id: Web_1920__4;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-scale-on-double-click: true;
+	--web-actual-size-on-double-click: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__4;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Web_1920__4_Class {
+	position: absolute;
+	width: 1920px;
+	height: 4474px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 4;
+	--web-view-id: Web_1920__4;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-scale-on-double-click: true;
+	--web-actual-size-on-double-click: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+.Path_8_z_Class {
+	fill: url(#Path_8_z);
+}
+.Path_8_z {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 1517px;
+	transform: matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.img-header-388x400-removebg-pr_Class {
+	position: absolute;
+	width: 652px;
+	height: 672px;
+	left: 1268px;
+	top: 203px;
+	overflow: visible;
+}
+.Contact_Class {
+	left: 1332px;
+	top: 70px;
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(245,245,245,1);
+	letter-spacing: 0.3px;
+}
+.Rectangle_2_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 282px;
+	height: 73px;
+	left: 1568px;
+	top: 51px;
+}
+.Mabrouk_Class {
+	left: 1659px;
+	top: 70px;
+	position: absolute;
+	overflow: visible;
+	width: 142px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(235,57,77,1);
+	letter-spacing: 0.3px;
+}
+.n_44408934_2699922266820334_39_Class {
+	position: absolute;
+	width: 62px;
+	height: 62px;
+	left: 1576px;
+	top: 57px;
+	overflow: visible;
+}
+.Services_Class {
+	left: 1159px;
+	top: 70px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(245,245,245,1);
+	letter-spacing: 0.3px;
+}
+.A_propos_Class {
+	left: 977px;
+	top: 70px;
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(245,245,245,1);
+	letter-spacing: 0.3px;
+}
+.Acceuil_Class {
+	left: 820px;
+	top: 70px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(245,245,245,1);
+	letter-spacing: 0.3px;
+}
+.Bienvenue__Class {
+	left: 119px;
+	top: 234px;
+	position: absolute;
+	overflow: visible;
+	width: 198px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(245,245,245,1);
+	letter-spacing: 0.3px;
+}
+.la_solution__digitale_Class {
+	left: 119px;
+	top: 269px;
+	position: absolute;
+	overflow: visible;
+	width: 820px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 135px;
+	color: rgba(245,245,245,1);
+	letter-spacing: 0.3px;
+}
+.Lorem_ipsum_dolor_sit_amet_con_Class {
+	left: 119px;
+	top: 625px;
+	position: absolute;
+	overflow: visible;
+	width: 857px;
+	height: 72px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.Rectangle_47_Class {
+	fill: rgba(235,57,77,1);
+}
+.Rectangle_47 {
+	position: absolute;
+	overflow: visible;
+	width: 282px;
+	height: 73px;
+	left: 119px;
+	top: 723px;
+}
+.Rectangle_44_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_44 {
+	filter: drop-shadow(3px 3px 50px rgba(196, 196, 196, 1));
+	position: absolute;
+	overflow: visible;
+	width: 602px;
+	height: 465px;
+	left: 105px;
+	top: 2695px;
+}
+.Rectangle_48_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_48 {
+	filter: drop-shadow(1px 3px 90px rgba(196, 196, 196, 1));
+	position: absolute;
+	overflow: visible;
+	width: 770px;
+	height: 684px;
+	left: 693px;
+	top: 2646px;
+}
+.Rectangle_49_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_49 {
+	filter: drop-shadow(3px 3px 50px rgba(196, 196, 196, 1));
+	position: absolute;
+	overflow: visible;
+	width: 602px;
+	height: 465px;
+	left: 1329px;
+	top: 2695px;
+}
+.add-user_Class {
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	left: 134px;
+	top: 2719px;
+	overflow: visible;
+}
+.Actualits_Class {
+	left: 134px;
+	top: 2802px;
+	position: absolute;
+	overflow: visible;
+	width: 328px;
+	height: 35px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.Lorem_ipsum_dolor_sit_amet_con_bh_Class {
+	left: 134px;
+	top: 2859px;
+	position: absolute;
+	overflow: visible;
+	width: 424px;
+	height: 72px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.Voir_plus__Class {
+	left: 729px;
+	top: 2986px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(235,57,77,1);
+	letter-spacing: 0.3px;
+}
+.copy_Class {
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	left: 720px;
+	top: 2672px;
+	overflow: visible;
+}
+.Services_municipalit_Class {
+	left: 720px;
+	top: 2765px;
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 35px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.Lorem_ipsum_dolor_sit_amet_con_bl_Class {
+	left: 720px;
+	top: 2820px;
+	position: absolute;
+	overflow: visible;
+	width: 424px;
+	height: 72px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.Line_4_Class {
+	fill: transparent;
+	stroke: rgba(235,57,77,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 34px;
+	height: 3px;
+	left: 729px;
+	top: 3012.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.E-darti_Class {
+	left: 1358px;
+	top: 2802px;
+	position: absolute;
+	overflow: visible;
+	width: 328px;
+	height: 35px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.Lorem_ipsum_dolor_sit_amet_con_bo_Class {
+	left: 1358px;
+	top: 2859px;
+	position: absolute;
+	overflow: visible;
+	width: 424px;
+	height: 72px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.social_Class {
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	left: 1358px;
+	top: 2719px;
+	overflow: visible;
+}
+.Voir_plus__bq_Class {
+	left: 209px;
+	top: 748px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.3px;
+}
+.Scroll_Group_1_Class {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 707px;
+	height: 1050px;
+	left: 0px;
+	top: 1217px;
+	overflow: hidden;
+}
+.image-removebg-preview_Class {
+	position: absolute;
+	width: 1732px;
+	height: 1050px;
+	left: -405px;
+	top: 0px;
+	overflow: visible;
+}
+.A_propos_bt_Class {
+	left: 960px;
+	top: 1428px;
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(235,57,77,1);
+	letter-spacing: 0.3px;
+}
+.Cest_fini_Class {
+	left: 960px;
+	top: 1497px;
+	position: absolute;
+	overflow: visible;
+	width: 370px;
+	height: 86px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.pour_les_longues_procdures_Class {
+	left: 960px;
+	top: 1583px;
+	position: absolute;
+	overflow: visible;
+	width: 797px;
+	height: 55px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.Lorem_ipsum_dolor_sit_amet_con_bw_Class {
+	left: 960px;
+	top: 1684px;
+	position: absolute;
+	overflow: visible;
+	width: 895px;
+	height: 354px;
+	line-height: 30px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.location_Class {
+	position: absolute;
+	width: 734px;
+	height: 734px;
+	left: 0px;
+	top: 3247px;
+	overflow: visible;
+}
+.Contactez_Nous_Class {
+	left: 960px;
+	top: 3355px;
+	position: absolute;
+	overflow: visible;
+	width: 252px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(235,57,77,1);
+	letter-spacing: 0.3px;
+}
+.Rectangle_50_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_50 {
+	filter: drop-shadow(3px 3px 50px rgba(196, 196, 196, 1));
+	position: absolute;
+	overflow: visible;
+	width: 1005px;
+	height: 238px;
+	left: 960px;
+	top: 3473px;
+}
+.Rectangle_51_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_51 {
+	filter: drop-shadow(3px 3px 50px rgba(196, 196, 196, 1));
+	position: absolute;
+	overflow: visible;
+	width: 1005px;
+	height: 238px;
+	left: 960px;
+	top: 3706px;
+}
+.phone-call_Class {
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	left: 984px;
+	top: 3487px;
+	overflow: visible;
+}
+.email_1_Class {
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	left: 984px;
+	top: 3720px;
+	overflow: visible;
+}
+.n_16_20_000_000_Class {
+	left: 1086px;
+	top: 3500px;
+	position: absolute;
+	overflow: visible;
+	width: 328px;
+	height: 35px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.n_16_20_000_000_b_Class {
+	left: 1413px;
+	top: 3500px;
+	position: absolute;
+	overflow: visible;
+	width: 328px;
+	height: 35px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.mabroukgmailgovtn_Class {
+	left: 1086px;
+	top: 3733px;
+	position: absolute;
+	overflow: visible;
+	width: 470px;
+	height: 35px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.3px;
+}
+.Rectangle_52_Class {
+	fill: rgba(235,57,77,1);
+}
+.Rectangle_52 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 316px;
+	left: 0px;
+	top: 4158px;
+}
+.Line_5_Class {
+	fill: transparent;
+	stroke: rgba(235,57,77,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	width: 128.5px;
+	height: 3px;
+	left: 960px;
+	top: 1470.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_6_Class {
+	fill: transparent;
+	stroke: rgba(235,57,77,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6 {
+	overflow: visible;
+	position: absolute;
+	width: 128.5px;
+	height: 3px;
+	left: 960px;
+	top: 3396.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Nos_services_Class {
+	left: 761px;
+	top: 2510.5px;
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 29px;
+	color: rgba(235,57,77,1);
+	letter-spacing: 0.3px;
+}
+.Line_7_Class {
+	fill: transparent;
+	stroke: rgba(235,57,77,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_7 {
+	overflow: visible;
+	position: absolute;
+	width: 128.5px;
+	height: 3px;
+	left: 761px;
+	top: 2552px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.n___E-darti_2021_All_Rights_Re_Class {
+	left: 303px;
+	top: 4290px;
+	position: absolute;
+	overflow: visible;
+	width: 1253px;
+	height: 53px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+.facebook_Class {
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	left: 1628px;
+	top: 4283px;
+	overflow: visible;
+}
+.linkedin_1_Class {
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	left: 1792px;
+	top: 4283px;
+	overflow: visible;
+}
+.instagram_Class {
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	left: 1710px;
+	top: 4283px;
+	overflow: visible;
+}
+.Rectangle_65_Class {
+	fill: rgba(255,74,94,1);
+}
+.Rectangle_65 {
+	position: absolute;
+	overflow: visible;
+	width: 336px;
+	height: 333px;
+	left: -168px;
+	top: 4297px;
+}
+.Rectangle_65_cg_Class {
+	fill: rgba(255,74,94,1);
+}
+.Rectangle_65_cg {
+	position: absolute;
+	overflow: visible;
+	width: 336px;
+	height: 333px;
+	left: 1584px;
+	top: 4365px;
+}
+.Rectangle_6_Class {
+	fill: rgba(255,145,157,0.271);
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 336px;
+	height: 333px;
+	left: -168px;
+	top: -166px;
+}
